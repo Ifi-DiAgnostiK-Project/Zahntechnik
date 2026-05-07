@@ -1,40 +1,33 @@
 <!--
+author:    Hilke Domsch; Alexander Meiwald
+email:     hilke.domsch@gkz-ev.de
+date:      2025-10-14
+version:   0.0.12
 
-author: Hilke Domsch; Alexander Meiwald
+narrator:  Deutsch Male
+language:  de
 
-email:    hilke.domsch@gkz-ev.de
 
-version: 0.0.12
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Zahntechnik/blob/main/materials/zahntechniker_zahn323.md
 
-language: de
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/orthodontic.jpg
 
-narrator: Deutsch Male
-
-edit: true
-date: 2025-10-14
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/orthodontic.jpg
-
+title:     ZAHN 3-23 - Herstellen eines totalen Zahnersatzes nach System
+comment:   ZAHN 3-23 Totalen Zahnersatz nach System herstellen
 attribute: https://pixabay.com/photos/orthodontic-aids-mouth-guard-315784/
+tags:      Zahntechniker,
+           Zahnersatz,
+           Kieferorthopädie,
+           Zahnklammer,
+           Zahnprothese
 
-comment:  ZAHN 3-23 Totalen Zahnersatz nach System herstellen
-
-link: ./style.css
-
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-
-title: ZAHN 3-23 - Herstellen eines totalen Zahnersatzes nach System
-
-tags:  Zahntechniker,
-       Zahnersatz,
-       Kieferorthopädie,
-       Zahnklammer,
-       Zahnprothese
-
+link:      style.css
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 -->
 
 # ZAHN 3-23: Herstellen eines totalen Zahnersatzes nach System

@@ -1,40 +1,34 @@
 <!--
+author:    Hilke Domsch; Alexander Meiwald
+email:     hilke.domsch@gkz-ev.de
+date:      2025-08-07
+version:   0.0.4
 
-author: Hilke Domsch; Alexander Meiwald
+narrator:  Deutsch male
+language:  de
 
-email:    hilke.domsch@gkz-ev.de
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Zahntechnik/blob/main/materials/zahntechniker_einbettmasse.md
 
-version: 0.0.4
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/dentures-3532982_640.jpg
 
-language: de
+title:     Einbettmassen - Zahntechnik ZAHN 2-23
+comment:   Berechnung von Mischungen bei Einbettmassen
+attribute: logo image pixabay by user Elbo
+           https://pixabay.com/de/photos/zahnersatz-zahnarzt-gesundheitswesen-3532982/
+tags:      Zahntechniker,
+           Zahnersatz,
+           Prothese,
+           Zahnprothese,
+           Einbettmassen,
+           Dreisatz
 
-narrator: Deutsch male
-
-edit: true
-date: 2025-08-07
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/dentures-3532982_640.jpg
-
-comment:  Berechnung von Mischungen bei Einbettmassen
-
-link: ./style.css
-
-attribute: logo image pixabay by user Elbo https://pixabay.com/de/photos/zahnersatz-zahnarzt-gesundheitswesen-3532982/
-
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-
-title: Einbettmassen - Zahntechnik ZAHN 2-23
-
-tags: Zahntechniker,
-      Zahnersatz,
-      Prothese,
-      Zahnprothese,
-      Einbettmassen,
-      Dreisatz
+link:      style.css
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 -->
 
 # Mini-Lernkurs: Berechnung von Anmischflüssigkeiten für Einbettmassen (ZAHN 2-23)

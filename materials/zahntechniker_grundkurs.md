@@ -1,41 +1,33 @@
 <!--
+author:    Hilke Domsch; Alexander Meiwald
+email:     hilke.domsch@gkz-ev.de
+date:      2025-10-06
+version:   0.0.10
 
-author: Hilke Domsch; Alexander Meiwald
+narrator:  Deutsch Female
+language:  de
 
-email:    hilke.domsch@gkz-ev.de
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Zahntechnik/blob/main/materials/zahntechniker_grundkurs.md
 
-version: 0.0.10
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/point_to_teeth.jpg
 
-language: de
-
-narrator: Deutsch Female
-
-edit: true
-date: 2025-10-06
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/point_to_teeth.jpg
+title:     Grundkurs ZAHN 23 - Krone / CAD-Schiene
+comment:   G-ZAHN 23 Arbeitsunterlagen und zahntechnische Vorprodukte erstellen
 attribute: https://unsplash.com/de/fotos/ein-mann-und-eine-frau-mit-einem-touchscreen-gerat-Bd0RmCsJOCc
+tags:      Zahntechniker,
+           Zahnersatz,
+           Prothese,
+           Zahnprothese,
+           Krone,
+           CAD-Schiene
 
-comment:  G-ZAHN 23 Arbeitsunterlagen und zahntechnische Vorprodukte erstellen
-
-link: ./style.css
-
-
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-
-title: Grundkurs ZAHN 23 - Krone / CAD-Schiene
-
-tags:  Zahntechniker,
-       Zahnersatz,
-       Prothese,
-       Zahnprothese,
-       Krone,
-       CAD-Schiene
-
+link:      style.css
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 -->
 
 # Kurs G-ZAHN 23: Krone / CAD-Schiene

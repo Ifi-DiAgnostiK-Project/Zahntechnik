@@ -1,45 +1,39 @@
 <!--
+author:    Hilke Domsch; Alexander Meiwald
+email:     hilke.domsch@gkz-ev.de
+date:      2025-10-13
+version:   0.0.6
 
-author: Hilke Domsch; Alexander Meiwald
+narrator:  Deutsch Female
+language:  de
 
-email:    hilke.domsch@gkz-ev.de
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Zahntechnik/blob/main/materials/zahntechniker_zahn423.md
 
-version: 0.0.6
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/code_pixabay.jpg
 
-language: de
+title:     ZAHN 4-23 CAD/CAM in der Zahntechnik
+comment:   ZAHN 4-23 CAD- und CAM-Techniken zur Herstellung zahntechnischer
+           Werkstücke anwenden
+attribute: by pixabay
+           https://pixabay.com/photos/code-source-programming-web-5421211/
+tags:      Zahntechniker,
+           Zahnersatz,
+           Kieferorthopädie,
+           Zahnklammer,
+           Zahnprothese,
+           CAD,
+           CAM,
+           zahntechnische Werkstücke,
+           Konstruktion,
+           Design
 
-narrator: Deutsch Female
-
-edit: true
-date: 2025-10-13
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/code_pixabay.jpg
-
-attribute: by pixabay https://pixabay.com/photos/code-source-programming-web-5421211/
-
-comment:  ZAHN 4-23 CAD- und CAM-Techniken zur Herstellung zahntechnischer Werkstücke anwenden
-
-link: ./style.css
-
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-
-title: ZAHN 4-23 CAD/CAM in der Zahntechnik
-
-tags:  Zahntechniker,
-       Zahnersatz,
-       Kieferorthopädie,
-       Zahnklammer,
-       Zahnprothese,
-       CAD,
-       CAM,
-       zahntechnische Werkstücke,
-       Konstruktion,
-       Design
-
+link:      style.css
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 -->
 
 # Kurs ZAHN 4-23: CAD-/CAM-Techniken zur Herstellung zahntechnischer Werkstücke

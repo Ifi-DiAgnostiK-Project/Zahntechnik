@@ -1,38 +1,30 @@
 <!--
+author:    Hilke Domsch; Alexander Maywaldt
+email:     hilke.domsch@gkz-ev.de
+date:      2025-08-07
+version:   0.0.4
 
-author: Hilke Domsch; Alexander Maywaldt
+narrator:  Deutsch Female
+language:  de
 
-email:    hilke.domsch@gkz-ev.de
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Zahntechnik/blob/main/materials/zahntechniker_zahn223.md
 
-version: 0.0.4
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/unterkiefer_ansicht.jpg
 
-language: de
+title:     Zahnersatz als partielle Prothese ZAHN 2-23
+comment:   Kurs für Zahntechniker
+tags:      Zahntechniker,
+           Zahnersatz,
+           Prothese,
+           Zahnprothese
 
-narrator: Deutsch Female
-
-edit: true
-date: 2025-08-07
-
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/unterkiefer_ansicht.jpg
-
-title: Zahnersatz als partielle Prothese ZAHN 2-23
-comment:  Kurs für Zahntechniker
-
-link: ./style.css
-
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-
-
-tags:  Zahntechniker,
-       Zahnersatz,
-       Prothese,
-       Zahnprothese
-
+link:      style.css
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 -->
 
 # Herausnehmbaren definierten Zahnersatz als partielle Prothese herstellen (ZAHN 2-23)

@@ -1,40 +1,32 @@
 <!--
+author:    Hilke Domsch; Alexander Meiwald
+email:     hilke.domsch@gkz-ev.de
+date:      2025-10-13
+version:   0.0.11
 
-author: Hilke Domsch; Alexander Meiwald
+narrator:  Deutsch Male
+language:  de
 
-email:    hilke.domsch@gkz-ev.de
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Zahntechnik/blob/main/materials/zahntechniker_zahn123.md
 
-version: 0.0.11
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/bracket_closeup.jpg
 
-language: de
-
-narrator: Deutsch Male
-
-edit: true
-date: 2025-10-13
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/bracket_closeup.jpg
-
+title:     ZAHN 1-23 - Kieferorthopäische Geräte und temporäre Interimsprothesen
+comment:   ZAHN 1-23 Kieferorthopädische Geräte und temporäre Interimsprothesen herstellen
 attribute: image by pixabay https://pixabay.com/de/photos/zahnarzt-kieferorthop%C3%A4die-542252/
+tags:      Zahntechniker,
+           Kieferorthopädie,
+           Zahnersatz,
+           Zahnklammer,
+           Zahnprothese
 
-comment:  ZAHN 1-23 Kieferorthopädische Geräte und temporäre Interimsprothesen herstellen
-
-link: ./style.css
-
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-
-title: ZAHN 1-23 - Kieferorthopäische Geräte und temporäre Interimsprothesen
-
-tags:  Zahntechniker,
-       Kieferorthopädie,
-       Zahnersatz,
-       Zahnklammer,
-       Zahnprothese
-
+link:      style.css
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 -->
 
 # Kurs ZAHN 1-23: Kieferorthopädische Geräte und temporäre Interimsprothesen

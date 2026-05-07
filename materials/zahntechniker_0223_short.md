@@ -1,39 +1,31 @@
 <!--
+author:    Hilke Domsch; Alexander Meiwald
+email:     hilke.domsch@gkz-ev.de
+date:      2025-10-06
+version:   0.0.11
 
-author: Hilke Domsch; Alexander Meiwald
+narrator:  Deutsch Female
+language:  de
 
-email:    hilke.domsch@gkz-ev.de
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Zahntechnik/blob/main/materials/zahntechniker_0223_short.md
 
-version: 0.0.11
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/bruecke_old.jpeg
 
-language: de
-
-narrator: Deutsch Female
-
-edit: true
-date: 2025-10-06
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/bruecke_old.jpeg
-
+title:     Kurztest - Partielle Prothese (MoGu)
+comment:   ZAHN 2-23 Partielle Prothese - Modellguss
 attribute: https://de.wikipedia.org/wiki/Modellgussprothese#/media/Datei:Modellguss-geschiebe.jpg
+tags:      Zahntechniker,
+           Zahnersatz,
+           Prothese,
+           Zahnprothese
 
-comment:  ZAHN 2-23 Partielle Prothese - Modellguss
-
-link: ./style.css
-
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-
-title: Kurztest - Partielle Prothese (MoGu)
-
-tags: Zahntechniker,
-      Zahnersatz,
-      Prothese,
-      Zahnprothese
-
+link:      style.css
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 -->
 
 # Kurztest zum Kurs ZAHN 2-23: Partielle Prothese (MoGu)

@@ -1,43 +1,36 @@
 <!--
+author:    Hilke Domsch; Alexander Meiwald
+email:     hilke.domsch@gkz-ev.de
+date:      2025-11-12
+version:   0.0.7
 
-author: Hilke Domsch; Alexander Meiwald
+narrator:  Deutsch Male
+language:  de
 
-email:    hilke.domsch@gkz-ev.de
+edit:      https://github.dev/Ifi-DiAgnostiK-Project/Zahntechnik/blob/main/materials/zahntechniker_zahn523.md
 
-version: 0.0.7
+icon:      ../assets/img/Logo_234px.png
+logo:      ../assets/img/zahntechniker_et_work.jpg
 
-language: de
-
-narrator: Deutsch Male
-
-edit: true
-date: 2025-11-12
-icon: ../assets/img/Logo_234px.png
-logo: ../assets/img/zahntechniker_et_work.jpg
-
+title:     ZAHN 5-23 Herstellen eines funktionellen ästhetischen Zahnersatzes
+comment:   ZAHN 5-23 Funktionellen ästhetischen Zahnersatz herstellen
 attribute: https://pixabay.com/de/photos/zahnarzt-gebiss-klinik-zahnklinik-6225092/
+tags:      Zahntechniker,
+           Zahnersatz,
+           Primärteleskop,
+           Fräsen,
+           Fräs- und Verblendtechniken,
+           Prothetik,
+           Krone,
+           Doppelkrone,
+           Verblendung
 
-comment:  ZAHN 5-23 Funktionellen ästhetischen Zahnersatz herstellen
-
-link: ./style.css
-
-import: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
-        https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
-
-title: ZAHN 5-23 Herstellen eines funktionellen ästhetischen Zahnersatzes
-
-tags:  Zahntechniker,
-       Zahnersatz,
-       Primärteleskop,
-       Fräsen,
-       Fräs- und Verblendtechniken,
-       Prothetik,
-      Krone,
-      Doppelkrone,
-      Verblendung
+link:      style.css
+import:    https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_DragAndDrop_Template/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Piktogramme/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Textilpflegesymbole/refs/heads/main/makros.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/LiaScript_ImageQuiz/refs/heads/main/README.md
+           https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Bildersammlung/refs/heads/main/makros.md
 -->
 
 # ZAHN 5-23: Herstellen eines funktionellen ästhetischen Zahnersatzes
