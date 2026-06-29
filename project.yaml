@@ -88,11 +88,11 @@ collection:
       </div>
 
 
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Zahntechnik/refs/heads/main/materials/zahntechniker_0223_short.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Zahntechnik/refs/heads/main/materials/zahntechniker_einbettmasse.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Zahntechnik/refs/heads/main/materials/zahntechniker_grundkurs.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Zahntechnik/refs/heads/main/materials/zahntechniker_zahn123.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Zahntechnik/refs/heads/main/materials/zahntechniker_zahn223.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Zahntechnik/refs/heads/main/materials/zahntechniker_zahn323.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Zahntechnik/refs/heads/main/materials/zahntechniker_zahn423.md
-  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/Zahntechnik/refs/heads/main/materials/zahntechniker_zahn523.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/zahntechnik-zahn-2-23-kurztest-mogu/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/zahntechnik-zahn-2-23-einbettmassen/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/zahntechnik-grundkurs-g-zahn-23/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/zahntechnik-zahn-1-23-kieferorthopaedie/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/zahntechnik-zahn-2-23-partielle-prothese/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/zahntechnik-zahn-3-23-totaler-zahnersatz/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/zahntechnik-zahn-4-23-cad-cam/refs/heads/main/README.md
+  - url: https://raw.githubusercontent.com/Ifi-DiAgnostiK-Project/zahntechnik-zahn-5-23-aesthetischer-zahnersatz/refs/heads/main/README.md

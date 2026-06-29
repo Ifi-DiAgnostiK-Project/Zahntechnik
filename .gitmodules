@@ -1,0 +1,24 @@
+[submodule "materials/zahntechnik-grundkurs-g-zahn-23"]
+	path = materials/zahntechnik-grundkurs-g-zahn-23
+	url = https://github.com/Ifi-DiAgnostiK-Project/zahntechnik-grundkurs-g-zahn-23.git
+[submodule "materials/zahntechnik-zahn-1-23-kieferorthopaedie"]
+	path = materials/zahntechnik-zahn-1-23-kieferorthopaedie
+	url = https://github.com/Ifi-DiAgnostiK-Project/zahntechnik-zahn-1-23-kieferorthopaedie.git
+[submodule "materials/zahntechnik-zahn-2-23-partielle-prothese"]
+	path = materials/zahntechnik-zahn-2-23-partielle-prothese
+	url = https://github.com/Ifi-DiAgnostiK-Project/zahntechnik-zahn-2-23-partielle-prothese.git
+[submodule "materials/zahntechnik-zahn-2-23-kurztest-mogu"]
+	path = materials/zahntechnik-zahn-2-23-kurztest-mogu
+	url = https://github.com/Ifi-DiAgnostiK-Project/zahntechnik-zahn-2-23-kurztest-mogu.git
+[submodule "materials/zahntechnik-zahn-2-23-einbettmassen"]
+	path = materials/zahntechnik-zahn-2-23-einbettmassen
+	url = https://github.com/Ifi-DiAgnostiK-Project/zahntechnik-zahn-2-23-einbettmassen.git
+[submodule "materials/zahntechnik-zahn-3-23-totaler-zahnersatz"]
+	path = materials/zahntechnik-zahn-3-23-totaler-zahnersatz
+	url = https://github.com/Ifi-DiAgnostiK-Project/zahntechnik-zahn-3-23-totaler-zahnersatz.git
+[submodule "materials/zahntechnik-zahn-4-23-cad-cam"]
+	path = materials/zahntechnik-zahn-4-23-cad-cam
+	url = https://github.com/Ifi-DiAgnostiK-Project/zahntechnik-zahn-4-23-cad-cam.git
+[submodule "materials/zahntechnik-zahn-5-23-aesthetischer-zahnersatz"]
+	path = materials/zahntechnik-zahn-5-23-aesthetischer-zahnersatz
+	url = https://github.com/Ifi-DiAgnostiK-Project/zahntechnik-zahn-5-23-aesthetischer-zahnersatz.git
